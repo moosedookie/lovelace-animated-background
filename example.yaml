@@ -7,6 +7,10 @@ animated_background:
       - '/local/videobackgrounds/clear-night/clearnight02.mp4'
       - '/local/videobackgrounds/clear-night/clearnight03.mp4'
       - '/local/videobackgrounds/clear-night/clearnight04.mp4'
+      - '/local/videobackgrounds/clear-night/clearnight05.mp4'
+      - '/local/videobackgrounds/clear-night/clearnight06.mp4'
+      - '/local/videobackgrounds/clear-night/clearnight07.mp4'
+      - '/local/videobackgrounds/clear-night/clearnight08.mp4'
     cloudy:
       - '/local/videobackgrounds/cloudy/cloudy01.mp4'
       - '/local/videobackgrounds/cloudy/cloudy02.mp4'
@@ -14,13 +18,31 @@ animated_background:
       - '/local/videobackgrounds/cloudy/cloudy04.mp4'
       - '/local/videobackgrounds/cloudy/cloudy05.mp4'
       - '/local/videobackgrounds/cloudy/cloudy06.mp4'
+      - '/local/videobackgrounds/cloudy/cloudy07.mp4'
     fog:
       - '/local/videobackgrounds/fog/fog01.mp4'
       - '/local/videobackgrounds/fog/fog02.mp4'
+      - '/local/videobackgrounds/fog/fog03.mp4'
+      - '/local/videobackgrounds/fog/fog04.mp4'
+      - '/local/videobackgrounds/fog/fog05.mp4'
+    hail:
+      - '/local/videobackgrounds/lightning/lightning01.mp4'
+      - '/local/videobackgrounds/lightning/lightning02.mp4'
+    lightning:
+      - '/local/videobackgrounds/lightning/lightning01.mp4'
+      - '/local/videobackgrounds/lightning/lightning02.mp4'
+      - '/local/videobackgrounds/lightning/lightning03.mp4'
+      - '/local/videobackgrounds/lightning/lightning04.mp4'
+    lightning-rainy:
+      - '/local/videobackgrounds/lightning/lightning01.mp4'
+      - '/local/videobackgrounds/lightning/lightning02.mp4'
+      - '/local/videobackgrounds/lightning/lightning03.mp4'
+      - '/local/videobackgrounds/lightning/lightning04.mp4'
     mostlycloudy:
       - '/local/videobackgrounds/mostlycloudy/mostlycloudy01.mp4'
       - '/local/videobackgrounds/mostlycloudy/mostlycloudy02.mp4'
       - '/local/videobackgrounds/mostlycloudy/mostlycloudy03.mp4'
+      - '/local/videobackgrounds/mostlycloudy/mostlycloudy04.mp4'
     partlycloudy:
       - '/local/videobackgrounds/cloudy/cloudy01.mp4'
       - '/local/videobackgrounds/cloudy/cloudy02.mp4'
@@ -28,10 +50,22 @@ animated_background:
       - '/local/videobackgrounds/cloudy/cloudy04.mp4'
       - '/local/videobackgrounds/cloudy/cloudy05.mp4'
       - '/local/videobackgrounds/cloudy/cloudy06.mp4'
+      - '/local/videobackgrounds/cloudy/cloudy07.mp4'
+    pouring:
+      - '/local/videobackgrounds/rainy/rainy01.mp4'
+      - '/local/videobackgrounds/rainy/rainy02.mp4'
+      - '/local/videobackgrounds/rainy/rainy03.mp4'
+      - '/local/videobackgrounds/rainy/rainy04.mp4'
     rainy:
       - '/local/videobackgrounds/rainy/rainy01.mp4'
       - '/local/videobackgrounds/rainy/rainy02.mp4'
+      - '/local/videobackgrounds/rainy/rainy03.mp4'
+      - '/local/videobackgrounds/rainy/rainy04.mp4'
     snowy:
+      - '/local/videobackgrounds/snowy/snowy01.mp4'
+      - '/local/videobackgrounds/snowy/snowy02.mp4'
+      - '/local/videobackgrounds/snowy/snowy03.mp4'
+    snowy-rainy:
       - '/local/videobackgrounds/snowy/snowy01.mp4'
       - '/local/videobackgrounds/snowy/snowy02.mp4'
       - '/local/videobackgrounds/snowy/snowy03.mp4'
@@ -41,7 +75,10 @@ animated_background:
       - '/local/videobackgrounds/sunny/sunny03.mp4'
       - '/local/videobackgrounds/sunny/sunny04.mp4'
       - '/local/videobackgrounds/sunny/sunny05.mp4'
+      - '/local/videobackgrounds/sunny/sunny06.mp4'
     windy:
       - '/local/videobackgrounds/windy/windy01.mp4'
+      - '/local/videobackgrounds/windy/windy02.mp4'
     windy-variant:
       - '/local/videobackgrounds/windy/windy01.mp4'
+      - '/local/videobackgrounds/windy/windy02.mp4'

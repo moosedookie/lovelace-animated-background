@@ -7,6 +7,10 @@ animated_background:
       - 'https://cdn.flixel.com/flixel/v26zyfd6yf0r33s46vpe.hd.mp4'
       - 'https://cdn.flixel.com/flixel/ypy8bw9fgw1zv2b4htp2.hd.mp4'
       - 'https://cdn.flixel.com/flixel/rosz2gi676xhkiw1ut6i.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/ogd95qysaotxsgbycmxq.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/h1pnkz1q4exz9wy0d70a.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/wj2vip6r5mgg86nqbqkh.tablet.mp4'
+      - 'https://cdn.flixel.com/flixel/jjihphnwquisxx0xyxtg.tablet.mp4'
     cloudy:
       - 'https://cdn.flixel.com/flixel/13e0s6coh6ayapvdyqnv.hd.mp4'
       - 'https://cdn.flixel.com/flixel/aorl3skmssy7udwopk22.hd.mp4'
@@ -14,13 +18,31 @@ animated_background:
       - 'https://cdn.flixel.com/flixel/3rd72eezaj6d23ahlo7y.hd.mp4'
       - 'https://cdn.flixel.com/flixel/9m11gd43m6qn3y93ntzp.hd.mp4'
       - 'https://cdn.flixel.com/flixel/hrkw2m8eofib9sk7t1v2.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/rrogjudagqdyh4t7ao6i.hd.mp4'
     fog:
       - 'https://cdn.flixel.com/flixel/vwqzlk4turo2449be9uf.hd.mp4'
       - 'https://cdn.flixel.com/flixel/5363uhabodwwrzgnq6vx.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/6tflyeoscecshfd22p2h.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/rw1nxi2bee5y7ppfvky4.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/0lzwkmce1bg74rmovzoq.tablet.mp4'
+    hail:
+      - 'https://cdn.flixel.com/flixel/sbk5sc03j7vay52r3e4o.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/chrgj6raf5q3s6y2so7z.hd.mp4'
+    lightning:
+      - 'https://cdn.flixel.com/flixel/sbk5sc03j7vay52r3e4o.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/chrgj6raf5q3s6y2so7z.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/mgcpkve3xzp5nwj7rq3y.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/j6txa6307zgmk4olaykl.hd.mp4'
+    lightning-rainy:
+      - 'https://cdn.flixel.com/flixel/sbk5sc03j7vay52r3e4o.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/chrgj6raf5q3s6y2so7z.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/mgcpkve3xzp5nwj7rq3y.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/j6txa6307zgmk4olaykl.hd.mp4'
     mostlycloudy:
       - 'https://cdn.flixel.com/flixel/e95h5cqyvhnrk4ytqt4q.hd.mp4'
       - 'https://cdn.flixel.com/flixel/l2bjw34wnusyf5q2qq3p.hd.mp4'
       - 'https://cdn.flixel.com/flixel/rrgta099ulami3zb9fd2.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/th3r6ea43guj11jkf2vr.hd.mp4'
     partlycloudy:
       - 'https://cdn.flixel.com/flixel/13e0s6coh6ayapvdyqnv.hd.mp4'
       - 'https://cdn.flixel.com/flixel/aorl3skmssy7udwopk22.hd.mp4'
@@ -28,10 +50,21 @@ animated_background:
       - 'https://cdn.flixel.com/flixel/3rd72eezaj6d23ahlo7y.hd.mp4'
       - 'https://cdn.flixel.com/flixel/9m11gd43m6qn3y93ntzp.hd.mp4'
       - 'https://cdn.flixel.com/flixel/hrkw2m8eofib9sk7t1v2.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/rrogjudagqdyh4t7ao6i.hd.mp4'
+    pouring:
+      - 'https://cdn.flixel.com/flixel/f0w23bd0enxur5ff0bxz.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/5e8hugt6dtm0pwfc5mz6.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/tvn9ugchid10urpe1d2c.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/f0w23bd0enxur5ff0bxz.hd.mp4'
     rainy:
       - 'https://cdn.flixel.com/flixel/f0w23bd0enxur5ff0bxz.hd.mp4'
       - 'https://cdn.flixel.com/flixel/5e8hugt6dtm0pwfc5mz6.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/tvn9ugchid10urpe1d2c.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/f0w23bd0enxur5ff0bxz.hd.mp4'
     snowy:
+      - 'https://cdn.flixel.com/flixel/ndza6yswd0k6vlboxyhk.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/qjk6j6uwzfijj6922eo8.hd.mp4'
+    snowy-rainy:
       - 'https://cdn.flixel.com/flixel/ndza6yswd0k6vlboxyhk.hd.mp4'
       - 'https://cdn.flixel.com/flixel/qjk6j6uwzfijj6922eo8.hd.mp4'
     sunny:
@@ -40,5 +73,10 @@ animated_background:
       - 'https://cdn.flixel.com/flixel/jvw1avupguhfbo11betq.hd.mp4'
       - 'https://cdn.flixel.com/flixel/8cmeusxf3pkanai43djs.hd.mp4'
       - 'https://cdn.flixel.com/flixel/guwb10mfddctfvwioaex.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/rn4mv7l2ivp186k2a498.hd.mp4'
     windy:
       - 'https://cdn.flixel.com/flixel/49sw9s3j3z0kq6nvomma.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/mmvuziucjtcm8bcdi268.hd.mp4'
+    windy-variant:
+      - 'https://cdn.flixel.com/flixel/49sw9s3j3z0kq6nvomma.hd.mp4'
+      - 'https://cdn.flixel.com/flixel/mmvuziucjtcm8bcdi268.hd.mp4'

@@ -56,11 +56,13 @@ animated_background:
       - '/local/videobackgrounds/rainy/rainy02.mp4'
       - '/local/videobackgrounds/rainy/rainy03.mp4'
       - '/local/videobackgrounds/rainy/rainy04.mp4'
+      - '/local/videobackgrounds/rainy/rainy05.mp4'
     rainy:
       - '/local/videobackgrounds/rainy/rainy01.mp4'
       - '/local/videobackgrounds/rainy/rainy02.mp4'
       - '/local/videobackgrounds/rainy/rainy03.mp4'
       - '/local/videobackgrounds/rainy/rainy04.mp4'
+      - '/local/videobackgrounds/rainy/rainy05.mp4'
     snowy:
       - '/local/videobackgrounds/snowy/snowy01.mp4'
       - '/local/videobackgrounds/snowy/snowy02.mp4'
